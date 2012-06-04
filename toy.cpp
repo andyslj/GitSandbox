@@ -12,3 +12,8 @@ truck::truck()
 {
    cout << "Vroom!!" << endl;
 }
+
+sandtool::sandtool()
+{
+   cout << "I can dig!" << endl;
+}

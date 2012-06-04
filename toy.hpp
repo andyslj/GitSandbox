@@ -15,5 +15,13 @@ class truck : public toy
 {
 public:
    truck();
-}
+};
+
+      
+class sandtool : public toy
+{
+public:
+   sandtool();
+};
+
       

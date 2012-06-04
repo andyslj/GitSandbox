@@ -1,5 +1,11 @@
 class rock
 {
 public:
-   rock();
+   enum color { WHITE, BLUE, RED };
+      
+   rock(color c);
+
+private:
+   color mColor;
+   int mWeight;
 }

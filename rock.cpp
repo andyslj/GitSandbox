@@ -2,8 +2,8 @@
 
 using namespace std
 
-rock::rock(color c)
-   : mColor(c), mWeight(1)
+rock::rock(color c, int w)
+   : mColor(c), mWeight(w)
 {
-   cout << " I am a rock" << endl;
+   cout << " I am the old rock" << endl;
 }

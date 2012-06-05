@@ -3,7 +3,7 @@ class rock
 public:
    enum color { WHITE, BLUE, RED };
       
-   rock(color c);
+   rock(color c, int w);
 
 private:
    color mColor;

@@ -25,3 +25,9 @@ public:
 };
 
       
+class dino : public toy
+{
+public:
+   dino();
+}
+   

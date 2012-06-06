@@ -17,3 +17,8 @@ sandtool::sandtool()
 {
    cout << "I can dig!" << endl;
 }
+
+dino::dino()
+{
+   cout << "I can dino!" << endl;
+}

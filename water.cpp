@@ -9,6 +9,8 @@ struct water
    {
       return sand;   
    }
+
+   short R, G, B, A;
 };
 
    

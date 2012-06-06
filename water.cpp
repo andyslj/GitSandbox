@@ -9,6 +9,8 @@ struct water
    {
       return sand;   
    }
+
+   int cR, cG, cB;
 };
 
    

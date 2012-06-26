@@ -24,4 +24,4 @@ dino::dino()
 }
 
 
-// more toys, plz
+// NO MORE

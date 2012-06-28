@@ -1,4 +1,6 @@
 class toy
+
+// more toy here?
 {
 public:
    toy() {}

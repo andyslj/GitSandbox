@@ -1,3 +1,4 @@
+// rock class
 class rock
 {
 public:

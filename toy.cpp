@@ -20,8 +20,6 @@ sandtool::sandtool()
 
 dino::dino()
 {
-   cout << "I can dino!" << endl;
+    cout << "I can dino!" << endl;
 }
 
-
-// more toys, plz
